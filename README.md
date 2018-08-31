@@ -5,8 +5,8 @@ Using Firebase :
 - Upload images in Firebase Storage with User Authentication.
 
 Remember to insert the respective keys in strings.xml:
-
-(<string name="app_name">
+```
+<string name="app_name">
     <!--App Name-->
   </string>
   <string name="facebook_app_id">
@@ -17,7 +17,8 @@ Remember to insert the respective keys in strings.xml:
   </string>
   <string name="server_client_id">
     <!--Server Client Id-->
-  </string>)
+  </string>
+  ``` 
   
   Without this keys the proyect will not run.
   
