@@ -1,0 +1,12 @@
+layout/item_picker_camera_tile.axml;layout/item_picker_camera_tile.xml
+layout/item_picker_dummy_tile.axml;layout/item_picker_dummy_tile.xml
+layout/item_picker_gallery_tile.axml;layout/item_picker_gallery_tile.xml
+layout/item_picker_image_tile.axml;layout/item_picker_image_tile.xml
+layout/item_picker_multiselection_bar.axml;layout/item_picker_multiselection_bar.xml
+layout/layout_imagepicker_sheet.axml;layout/layout_imagepicker_sheet.xml
+values/attrs.xml;values/attrs.xml
+values/colors.xml;values/colors.xml
+values/strings.xml;values/strings.xml
+drawable/picker_icon_camera.xml;drawable/picker_icon_camera.xml
+drawable/picker_icon_gallery.xml;drawable/picker_icon_gallery.xml
+drawable/picker_tile_selected.xml;drawable/picker_tile_selected.xml

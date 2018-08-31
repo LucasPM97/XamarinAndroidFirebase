@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1030463984303",
+    "firebase_url": "https://XamarinFirebase-4adad.firebaseio.com",
+    "project_id": "XamarinFirebase-4adad",
+    "storage_bucket": "XamarinFirebase-4adad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030463984303:android:61e0ebca2348125d",
+        "android_client_info": {
+          "package_name": "com.hardpoint.XamarinFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030463984303-aou6ojmp5gt0dpta1smidi71r7e966ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hardpoint.XamarinFirebase",
+            "certificate_hash": "59d95d6f5ec101788a2bfd50fce51ae366b7e583"
+          }
+        },
+        {
+          "client_id": "1030463984303-6g7omvpav0pcai3q3mi06crnfuprd69t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1030463984303-6g7omvpav0pcai3q3mi06crnfuprd69t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMVYE7NdbrPEcS-dQ8s-0EijIyRxERrk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030463984303-6g7omvpav0pcai3q3mi06crnfuprd69t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
